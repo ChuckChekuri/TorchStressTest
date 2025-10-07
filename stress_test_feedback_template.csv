@@ -1,0 +1,2 @@
+Timestamp,Tester ID,Group,Test Case,Device/Browser,Severity,Issue Type,Description,Steps to Reproduce,Expected Result,Actual Result,Screenshots,Status,Assigned To,Resolution
+2025-10-06 09:00:00,Tester001,1,Homepage Parallax Scrolling,Chrome 120.0.6099.109 (Mac),Medium,Performance,"Parallax scrolling stutters on scene transitions","1. Visit homepage 2. Scroll slowly through scenes 3. Observe transitions between scenes 1-2, 2-3, etc.","Smooth 60fps scrolling with no stuttering","Noticeable stuttering and frame drops during scene transitions",,Open,,
