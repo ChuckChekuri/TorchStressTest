@@ -16,9 +16,9 @@
 | **Testers** | Variable | Self-assigned | Hands-on testing, issue documentation |
 
 ## ⏰ **Event Timeline**
-- **0:00-0:10** (10 min): Welcome, introductions, group assignments
-- **0:10-0:55** (45 min): Hands-on testing with lead guidance
-- **0:55-1:00** (5 min): Lead reports and retrospective
+- **0:00-0:15** (15 min): Welcome, introductions, group assignments
+- **0:15-0:45** (30 min): Hands-on testing with lead guidance
+- **0:45-0:55** (10 min): Lead reports and retrospective
 
 ## 📁 **Documentation Structure**
 
@@ -55,9 +55,11 @@ Each lead provides:
 ## 🔧 **Technical Setup**
 
 ### **Required Access**
-- Website URL: [Insert staging/production URL]
-- Google Sheet: [Insert public edit link]
-- Test accounts: [Insert credentials if needed]
+- [Website URL](https://staging.d2s0w881nkwvek.amplifyapp.com/)
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1NkFWxtXl1ihtBnNiPLBtNBxK18Fb5APdxwHhaq3ahu0/edit?usp=sharing)
+- Test accounts: 
+- 'user@aigreatnesstorch.com/TempPass123!'
+- 'editor@aigreatnesstorch.com/TempPass123!'
 
 ### **Device Requirements**
 - Modern browser (Chrome recommended)
@@ -89,21 +91,20 @@ Each lead provides:
 ## 📝 **Quick Setup Checklist**
 
 ### **Pre-Event (Day Before)**
-- [ ] Create Google Sheet following `SPREADSHEET_SETUP.md`
-- [ ] Test all dropdown menus and formulas
-- [ ] Share sheet with edit permissions
-- [ ] Prepare test environment access
-- [ ] Send calendar invites with links
+- [X] Create Google Sheet following `SPREADSHEET_SETUP.md`
+- [X] Test all dropdown menus and formulas
+- [X] Share sheet with edit permissions
+- [X] Prepare test environment access
+- [X] Send calendar invites with links
 
 ### **Day Of (30 minutes before)**
-- [ ] Verify sheet access for all participants
-- [ ] Test website functionality
-- [ ] Prepare backup communication channels
-- [ ] Review agenda timing
+- [X] Verify sheet access for all participants
+- [X] Test website functionality
+- [X] Prepare backup communication channels
+- [X] Review agenda timing
 
 ### **Post-Event**
 - [ ] Export final spreadsheet data
 - [ ] Send thank-you notes to participants
 - [ ] Begin issue triage and prioritization
 - [ ] Schedule follow-up if needed</content>
-<parameter name="filePath">/Users/chuckchekuri/projects/ai-greatness-torch-website/docs/stress-test/EVENT_SUMMARY.md

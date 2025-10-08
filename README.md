@@ -20,12 +20,12 @@
 
 ## 🔄 **Process Flow**
 
-### **Phase 1: Setup (5 minutes)**
+### **Phase 1: Setup (15 minutes)**
 - Welcome and site overview
 - Group assignments and lead introductions
 - Spreadsheet access and instructions
 
-### **Phase 2: Testing (45 minutes)**
+### **Phase 2: Testing (30 minutes)**
 - Testers join their assigned groups
 - Hands-on testing of assigned features
 - Real-time issue reporting to spreadsheet
@@ -45,9 +45,6 @@
 - `AGENDA.md` - Meeting presentation guide
 - `LEAD_GUIDE.md` - Instructions for group leads
 - `TESTER_GUIDE.md` - Instructions for testers
-- `testing_event_spreadsheet.xlsx` - Issue tracking spreadsheet
+- [Tracking Sheet](https://docs.google.com/spreadsheets/d/1NkFWxtXl1ihtBnNiPLBtNBxK18Fb5APdxwHhaq3ahu0/edit?usp=sharing) - Issue tracking spreadsheet on Google Drive
 
----
 
-*Last Updated: October 7, 2025*</content>
-<parameter name="filePath">/Users/chuckchekuri/projects/ai-greatness-torch-website/docs/stress-test/README.md

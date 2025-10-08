@@ -29,19 +29,17 @@ This guide explains how to create the Google Sheet for the AI Greatness Torch te
 
 ### **Column Headers** (Row 1)
 ```
-A1: Timestamp
+A1: S. No
 B1: Tester Name
 C1: Group
-D1: Feature
-E1: Severity
-F1: Issue Type
-G1: Description
-H1: Steps to Reproduce
-I1: Expected Result
-J1: Actual Result
-K1: Device/Browser
-L1: Status
-M1: Lead Review
+D1: Test Case/Feature
+E1: Device/Browser
+F1: Description
+G1: Steps to Reproduce
+H1: Expected Result
+I1: Actual Result
+J1: Screen Shot 
+K1: Status
 ```
 
 ### **Data Validation Setup**

@@ -7,7 +7,7 @@
 
 ## ⏰ **Agenda Timeline**
 
-### **0:00 - 0:15 (15 min) - Welcome & Setup**
+### **0:00 - 0:05 (5 min) - Welcome & Setup**
 **Presenter**: Chuck Chekuri (Event Coordinator)
 
 **Objectives**:
@@ -71,7 +71,7 @@
 
 ---
 
-### **0:15 - 1:00 (45 min) - Hands-on Testing**
+### **0:15 - 0:45 (30 min) - Hands-on Testing**
 **Presenter**: Group Leads (facilitated)
 
 **Objectives**:
@@ -93,7 +93,7 @@
 
 ---
 
-### **1:00 - 1:10 (10 min) - Consolidation & Retrospective**
+### **0:45 - 1:00 (15 min) - Consolidation & Retrospective**
 **Presenter**: Group Leads → Chuck Chekuri (Event Coordinator)
 
 **Objectives**:
@@ -136,10 +136,11 @@
 
 ### **Required Access**
 - Website URL: https://staging.d2s0w881nkwvek.amplifyapp.com/
-- Google Sheet: [Insert public spreadsheet link]
-- Test accounts: [sign-in credentials if needed]
-
-### **Device Requirements**
+- Google Sheet: [Issue Tracker](https://docs.google.com/spreadsheets/d/1NkFWxtXl1ihtBnNiPLBtNBxK18Fb5APdxwHhaq3ahu0/edit?usp=sharing)
+- Test accounts: [sign-in for credentials](https://staging.d2s0w881nkwvek.amplifyapp.com/login)  
+  
+    
+## **Device Requirements**
 - Laptop/desktop with modern browser (Chrome recommended)
 - Mobile device testing encouraged but not required
 - Stable internet connection
@@ -157,6 +158,3 @@
 - **Lead Support**: Contact your group lead directly
 
 ---
-
-*Agenda Version: 1.0 | Last Updated: October 7, 2025*</content>
-<parameter name="filePath">/Users/chuckchekuri/projects/ai-greatness-torch-website/docs/stress-test/AGENDA.md

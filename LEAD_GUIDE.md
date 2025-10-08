@@ -12,7 +12,7 @@ You are responsible for guiding your testing group, ensuring reliable data colle
 | **Srini Jhasthy** | 3 | AI Chat System | AI conversations, response quality, persistence, error handling |
 | **Alok Sharan** | 4 | Blog & Pre-Order Flow | Content reading, commenting, payment processing, order management |
 
-## 📋 **Pre-Event Preparation (15 minutes before)**
+## 📋 **Pre-Event Preparation (5 minutes before)**
 
 ### **Spreadsheet Setup**
 1. **Access the Google Sheet**: [Insert link here]
@@ -32,7 +32,7 @@ You are responsible for guiding your testing group, ensuring reliable data colle
 - **Help with assignments**: Guide testers to add their names to your group in the lookup sheet
 - **Balance groups**: If your group gets too full, suggest alternatives
 
-### **0:15-1:00 - Testing Phase (45 minutes)**
+### **0:15-0:45 - Testing Phase (30 minutes)**
 
 #### **Your Responsibilities**
 1. **Guide Testing**: Help testers understand what to test in your area
@@ -56,7 +56,7 @@ For each issue reported, ensure:
 - "Does this happen on different browsers/devices?"
 - "Is this preventing you from completing the main task?"
 
-### **1:00-1:10 - Reporting Phase (10 minutes)**
+### **0:45-1:00 - Reporting Phase (15 minutes)**
 
 #### **Consolidation Process**
 1. **Review all issues**: Scan your group's entries in the spreadsheet
@@ -126,11 +126,6 @@ Structure your report as:
 - **Organization**: Keeps group focused and on track
 - **Communication**: Clear instructions and helpful feedback
 
-## 📞 **Emergency Contacts**
-- **Technical Issues**: [Coordinator Name] - [Phone/Email]
-- **Process Questions**: [Coordinator Name] - [Phone/Email]
-- **Other Leads**: Coordinate with fellow leads if needed
-
 ---
 
 ## 🎯 **Remember**
@@ -139,5 +134,3 @@ Structure your report as:
 - **Encourage creativity** - testers should try to break things in interesting ways
 - **Stay positive** - this is about improvement, not criticism
 
-*Lead Guide Version: 1.0 | Last Updated: October 7, 2025*</content>
-<parameter name="filePath">/Users/chuckchekuri/projects/ai-greatness-torch-website/docs/stress-test/LEAD_GUIDE.md

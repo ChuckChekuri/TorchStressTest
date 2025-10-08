@@ -4,9 +4,9 @@
 Thank you for participating in our testing event! You're helping ensure the AI Greatness Torch website works great for everyone. This guide will walk you through the 1-hour process.
 
 ## ⏰ **Event Timeline**
-- **0:00-0:10**: Welcome and group assignments
-- **0:10-0:55**: Hands-on testing (45 minutes)
-- **0:55-1:00**: Group reports and wrap-up
+- **0:00-0:15**: Welcome and group assignments
+- **0:15-0:45**: Hands-on testing (30 minutes)
+- **0:45-1:00**: Group reports and wrap-up
 
 ## 📋 **Step 1: Choose Your Group (5 minutes)**
 
@@ -19,13 +19,13 @@ Thank you for participating in our testing event! You're helping ensure the AI G
 | **4** | Blog & Pre-Order Flow | Reading articles, making purchases |
 
 ### **How to Join a Group**
-1. **Open the spreadsheet**: [Insert Google Sheet link here]
-2. **Go to "Group Assignments" sheet**
-3. **Find your preferred group**
-4. **Add your name** to the list for that group
+1. [**Open the spreadsheet**]( https://docs.google.com/spreadsheets/d/1NkFWxtXl1ihtBnNiPLBtNBxK18Fb5APdxwHhaq3ahu0/edit?usp=sharing)
+2. **Go to "Testers" sheet**
+3. **Add Your Name in the first column**
+4. **Pick your group** Connect with any of the group leads to join their team
 5. **Introduce yourself** to your group lead
 
-## 🛠 **Step 2: Hands-on Testing (45 minutes)**
+## 🛠 **Step 2: Hands-on Testing (30 minutes)**
 
 ### **Your Mission**
 - **Find what's working**: Note features that work well
@@ -53,25 +53,6 @@ Thank you for participating in our testing event! You're helping ensure the AI G
 1. **Go to "Issue Tracker" sheet** in the Google Sheet
 2. **Click the "+" button** to add a new row
 3. **Fill in the details** using the dropdown menus
-
-### **Required Information**
-| Field | What to Enter | Example |
-|-------|---------------|---------|
-| **Tester Name** | Your name | "John Smith" |
-| **Group** | Your group number | "3" (from dropdown) |
-| **Feature** | What you're testing | "AI Chat Response" (from dropdown) |
-| **Severity** | How bad is it? | "High - prevents main use" |
-| **Issue Type** | Category of problem | "Functionality - doesn't work" |
-| **Description** | What's wrong | "Chat responses are very slow" |
-| **Steps** | How to reproduce | "1. Ask a question, 2. Wait for response" |
-| **Expected** | What should happen | "Response within 5 seconds" |
-| **Actual** | What really happens | "Takes 30+ seconds" |
-
-### **Severity Levels**
-- **Critical 🚨**: Completely broken, can't use the feature
-- **High ⚠️**: Major problem, hard to use
-- **Medium 📝**: Annoying but can work around
-- **Low 💅**: Minor issue, cosmetic
 
 ## 👥 **Working with Your Group Lead**
 
@@ -148,9 +129,6 @@ Thank you for participating in our testing event! You're helping ensure the AI G
 - **Technical Issues**: Contact the event coordinator
 - **Spreadsheet Problems**: Refresh the page or try a different browser
 
-### **Emergency Contacts**
-- **Event Coordinator**: [Coordinator Name] - [Phone/Email]
-- **Technical Support**: [Tech Support Name] - [Phone/Email]
 
 ## 🎉 **After Testing**
 
@@ -179,5 +157,3 @@ Thank you for participating in our testing event! You're helping ensure the AI G
 
 *Remember: There's no such thing as a "stupid" issue to report. If something feels off to you, it's probably worth noting!*
 
-*Tester Guide Version: 1.0 | Last Updated: October 7, 2025*</content>
-<parameter name="filePath">/Users/chuckchekuri/projects/ai-greatness-torch-website/docs/stress-test/TESTER_GUIDE.md
