@@ -145,16 +145,3 @@
 - Mobile device testing encouraged but not required
 - Stable internet connection
 
-### **Backup Plans**
-- If spreadsheet access fails: Use shared document or verbal reporting
-- If website is down: Focus on process discussion and planning
-- If time runs short: Prioritize critical findings over comprehensive coverage
-
----
-
-## 📞 **Emergency Contacts**
-- **Technical Issues**: [Contact Name] - [Phone/Email]
-- **Process Questions**: [Coordinator Name] - [Phone/Email]
-- **Lead Support**: Contact your group lead directly
-
----
