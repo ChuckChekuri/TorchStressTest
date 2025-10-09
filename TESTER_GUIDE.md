@@ -148,12 +148,9 @@ Thank you for participating in our testing event! You're helping ensure the AI G
 
 1. **Think like a user** - What would frustrate you?
 2. **Try edge cases** - What if someone enters their name as "🤖 Robot"?
-3. **Test complete flows** - Login → Do something → Logout
-4. **Note your environment** - Browser, device, internet speed
-5. **Be specific with steps** - Number them clearly
-6. **Report positives too** - "The homepage animation is really smooth!"
+3. **Note your environment** - Browser, device, internet speed
+4. **Be specific with steps** - Number them clearly
+5. **Report positives too** - "The homepage animation is really smooth!"
 
 ---
-
-*Remember: There's no such thing as a "stupid" issue to report. If something feels off to you, it's probably worth noting!*
 
